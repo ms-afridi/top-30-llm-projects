@@ -38,11 +38,3 @@ This project is ideal for:
 
 ## 📂 Project Structure
 
-01_llm_cli_chatbot/
-├── app.py # Main chatbot logic
-├── requirements.txt # Project dependencies
-├── .env.example # Sample environment file
-├── .env # Environment variables (not shared)
-└── README.md # Project documentation
-
-
