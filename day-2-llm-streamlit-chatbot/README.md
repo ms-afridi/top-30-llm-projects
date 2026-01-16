@@ -24,8 +24,11 @@ A sleek, web-based AI chatbot built using **Streamlit** and powered by the **Gro
 ## 📂 Project Structure
 ```text
 .
-├── app.py              # Main Streamlit application
+├── webapp.py              # Main Streamlit application
 ├── .env                # API Keys (Keep this private!)
 ├── .gitignore          # Environment & Cache exclusion
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
+
+
+
