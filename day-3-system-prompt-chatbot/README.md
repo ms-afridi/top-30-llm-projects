@@ -23,8 +23,8 @@ A Streamlit-based chatbot application that demonstrates how different system pro
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/system-prompt-chatbot.git
-cd system-prompt-chatbot
+git clone https://github.com/ms-afridi/top-30-llm-projects.git
+cd top-30-llm-projects/day-3-system-prompt-chatbot
 ```
 
 2. **Install dependencies**
