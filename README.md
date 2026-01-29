@@ -25,7 +25,6 @@ Perfect for:
 - 🔬 Researchers exploring LLM applications
 
 ---
-
 ## 📚 Projects Overview
 
 | Day | Project Name | Description | Key Technologies | Status |
